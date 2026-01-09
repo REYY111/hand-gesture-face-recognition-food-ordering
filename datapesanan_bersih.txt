@@ -1,0 +1,17 @@
+Pelanggan 01: BURGER 1 pcs
+Pelanggan 02: KEBAB 2 pcs
+Pelanggan 01 (reyhan): PIZZA 3 pcs, BURGER 3 pcs
+Pelanggan 01 (reyhan): BURGER 2 pcs
+Pelanggan 01 (reyhan): KEBAB 1 pcs
+Pelanggan 02 (reyhan): BURGER 1 pcs
+Pelanggan 01 (reyhan): PIZZA 3 pcs
+Pelanggan 02 (reyhan): PIZZA 2 pcs
+Pelanggan 01 (reyhan): PIZZA 1 pcs
+Pelanggan 01 (reyhan): BURGER 1 pcs
+Pelanggan 01 (reyhan): KEBAB 3 pcs
+Pelanggan 01 (reyhan): BURGER 2 pcs
+Pelanggan 01 (reyhan): PIZZA 1 pcs
+Pelanggan 01 (reyhan): PIZZA 2 pcs
+Pelanggan 01 (reyhan): BURGER 1 pcs
+Pelanggan 01 (reyhan): PIZZA 1 pcs
+Pelanggan 01 (reyhan): PIZZA 2 pcs
